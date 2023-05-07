@@ -2,3 +2,5 @@ React-Vite
 React Router Dom
 Tailwind
 React Icon
+Chakra UI 
+Rect Hook Form
