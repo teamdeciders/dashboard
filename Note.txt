@@ -1,0 +1,4 @@
+React-Vite
+React Router Dom
+Tailwind
+React Icon
